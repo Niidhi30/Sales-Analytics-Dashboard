@@ -15,3 +15,18 @@ Data Modeling – Relationships, star schema design
 Data Visualization – Charts (bar, line, donut), slicers, KPIs
 
 Interactive Reporting – Filters, drill-downs, summary views
+
+🧠 Skills Demonstrated
+Data analysis and interpretation
+
+Business intelligence reporting
+
+Visual storytelling and dashboard design
+
+KPI tracking and performance metrics
+
+User-centric layout and interactive UI
+
+Real-time data integration (if API was used)
+
+Insights generation for decision-making
