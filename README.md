@@ -1,4 +1,5 @@
-Sales Analytics Dashboard | Power BI
+                                                                                        Sales Analytics Dashboard | Power BI
+
 Designed an interactive sales dashboard in Power BI to visualize key business metrics including Total Sales, Profit, Average Order Value, and Yearly Sales Trends. Integrated multiple charts—bar, donut, and line—to analyze performance by product category, customer age group, geography, and product demand. Enhanced decision-making with dynamic slicers, KPI cards, and drill-down features for business insights.
 
 🔧 Tools & Technologies Used
